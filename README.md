@@ -4,7 +4,7 @@
 I spent around 3 months learning Unity and familiarizing myself with the engine. After thinking more towards the future, I switched to Unreal Engine and have since then stopped working in Unity. This is because the games industry largely uses C++, and generally  requires C++ game projects to be showcased.'
 
 
-This is a Unity Project I made that prototyped some game mechanics using PRIMITIVE objects to represent things:
+This is a Unity Project I made in around 4 days that prototyped some game mechanics using PRIMITIVE objects to represent things:
 
 
 
