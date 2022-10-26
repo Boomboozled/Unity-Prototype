@@ -1,3 +1,7 @@
 # Unity-Prototype
 
-GitHub doesnt like that I use LF
+This is a Unity Project I made that prototyped some game mechanics and AI without the use of Navmeshes.
+
+
+
+I spent around 3 months learning Unity and familiarizing myself with the engine. After thinking more towards the future, I switched to Unreal Engine and have since then stopped working in Unity. 
