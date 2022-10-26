@@ -5,6 +5,14 @@ I spent around 3 months learning Unity and familiarizing myself with the engine.
 
 After learning from tutorials and YouTube, I decided to put what I learned into some practice by making a project in about 4 days that prototyped some game mechanics using PRIMITIVE objects to represent things:
 
+## Player
+
+The player can hold the "RMB" which then enables turning for the player. This was done only for purposes of working in the editor.
+
+The player can hurl three projectiles at enemies by pressing "LMB", each projectile will home towards the enemy closest to them. Enemies who are hit with the projectile will bounce up off the ground for some visual feedback. - Unless they die instantly from losing all their health
+
+The player can pickup a green powerup and "eat" enemies after it has been activated.
+
 
 
 ## Enemies
@@ -16,12 +24,7 @@ The enemies move without NavMeshes. They are able to detect the player using the
 
 Enemies will run away if you get too close, chase if you're too far, and are able to be outranged and walk out of their detection radius.
 
-## 
 
-The player can hold the "RMB" which then enables turning for the player. This was done only for purposes of working in the editor.
+## Fun Facts
 
-The player can hurl three projectiles at enemies by pressing "LMB", each projectile will home towards the enemy closest to them. Enemies who are hit with the projectile will bounce up off the ground for some visual feedback. - Unless they die instantly from losing all their health
-
-The player can pickup a green powerup and "eat" enemies after it has been activated.
-
-
+- I took an introductory Linear Algebra course and used this project to do a presentation of how  the Linear Algebra discussed in class can directly apply to game development by talking about Vector Addition, Vector Subtraction, Dot Product, Distance, and more.
