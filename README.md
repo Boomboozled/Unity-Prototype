@@ -1,5 +1,7 @@
 # Unity-Prototype
 
+STILL IN PROGRESS ON MAKING THIS PROJECT MORE PRESENTABLE TO PUBLIC
+
 This is a Unity Project I made that prototyped some game mechanics and AI without the use of Navmeshes.
 
 
