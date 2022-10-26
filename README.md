@@ -3,8 +3,7 @@
 ## About
 I spent around 3 months learning Unity and familiarizing myself with the engine. After thinking more towards the future, I switched to Unreal Engine and have since then stopped working in Unity. This is because the games industry largely uses C++, and generally  requires C++ game projects to be showcased.'
 
-
-This is a Unity Project I made in around 4 days that prototyped some game mechanics using PRIMITIVE objects to represent things:
+After learning from tutorials and YouTube, I decided to put what I learned into some practice by making a project in about 4 days that prototyped some game mechanics using PRIMITIVE objects to represent things:
 
 
 
@@ -12,6 +11,7 @@ This is a Unity Project I made in around 4 days that prototyped some game mechan
 
 There are four types of enemies with different health, fire rates, speeds, and appearances that will randomly spawn, with the number increasing after each wave.
 The enemies move without NavMeshes. They are able to detect the player using the Dot Product, in the scene I included a "visualization cone" to see the vision cone of any enemy select in the editor. Also there is an option on each enemy to toggle an option to "Show Player Tracking" which draws a line from the player to the enemy.
+
 ![image](https://user-images.githubusercontent.com/103400445/198081116-7cb93945-bcd5-4ee3-bc57-cb76e1d552fe.png)
 
 Enemies will run away if you get too close, chase if you're too far, and are able to be outranged and walk out of their detection radius.
